@@ -4,7 +4,7 @@
       {
         "title": "Este es el proyecto uno",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis repellendus iste a et, harum cupiditate aperiam praesentium omnis dolorem? Et deserunt temporibus eos ratione. Qui totam facilis eaque error atque?",
-        "image": "fingerprint.svg"
+        "image": "compra.svg"
       },
       {
         "title": "Este es el proyecto dos",
@@ -16,17 +16,17 @@
       {
         "numero": "Este es el LOGRO uno",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis repellendus iste a et, harum cupiditate aperiam praesentium omnis dolorem? Et deserunt temporibus eos ratione. Qui totam facilis eaque error atque?",
-        "image": "fingerprint.svg"
+        "image": "drone.svg"
       },
       {
         "numero": "Este es el LOGRO dos",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis repellendus iste a et, harum cupiditate aperiam praesentium omnis dolorem? Et deserunt temporibus eos ratione. Qui totam facilis eaque error atque?",
-        "image": "fingerprint.svg"
+        "image": "reloj.svg"
       },
       {
         "numero": "Este es el LOGRO tres",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis repellendus iste a et, harum cupiditate aperiam praesentium omnis dolorem? Et deserunt temporibus eos ratione. Qui totam facilis eaque error atque?",
-        "image": "fingerprint.svg"
+        "image": "tv.svg"
       }
     ]
   }
